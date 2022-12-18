@@ -1,5 +1,5 @@
 # LOAD DATA
-setwd("C:/Users/Lenovo/Downloads")
+setwd("C:/Users/Lenovo/Downloads/FP Ansur")
 data=read.table("turnover.csv",header=TRUE,sep=",")
 summary(turnover)
 
